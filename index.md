@@ -1,16 +1,17 @@
 ---
 layout: page
 show-avatar: false
-title: Fostering AI Research (FAIR)
+title: DubAI student challenge
 subtitle: University of Birmingham Dubai
 
 ---
 
 ---
+Join us for "DubAI Student Challenge" on Thursday 5th October​.
 
-The Computer Science department at the University of Birmingham Dubai is pleased to host the **Fostering AI Research (FAIR)** workshop at the UoBD campus on March 13, 2023. We will have a series of invited talks from experts in the field, joining us from the UAE as well as internationally, followed by a panel discussion on **The reality of AI: Advancements and real-world applications**. 
+The University of Birmingham Dubai is hosting a day-long hackathon for school and university students to provide a platform for bright students to showcase their talent and delve into the world of AI in Dubai. 
 
-To learn more about the event, please click [here](/fair/about).  The detailed programme of the event can be viewed [here](/fair/programme). You may register for the event [here](https://forms.office.com/e/ZLZAMZPrW4).
+To learn more about the event, please click [here](/dubAI-student-challenge/about).  The detailed programme of the event can be viewed [here](/dubAI-student-challenge/programme). You may register for the event [here](https://app.geckoform.com/public/?_ga=2.88817501.791399154.1696089612-1822552681.1661068657#/modern/21FO00gwrzw9i70024597s5c08).
 The venue of the event is [University of Birmingham Dubai](https://g.co/kgs/Cua4qb).
 
 
