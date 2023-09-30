@@ -1,4 +1,4 @@
-# Official website of the Fostering AI Research (FAIR) workshop at University of Birmingham Dubai
+# Official website of the DubAI student challenge at University of Birmingham Dubai, October 5, 2023.
 
 Created with the help of:
 * [Jekyll](https://jekyllrb.com/)
