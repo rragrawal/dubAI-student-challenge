@@ -13,11 +13,13 @@ Don't miss this opportunity to learn, create, and compete at the DubAI Student C
 ### Before the event
 Please go through these video lectures to get prepared for the event. The videos are available [here](https://drive.google.com/file/d/1mmqWM-k10Myc_9Shwev-m_bOaxioDf_q/view?usp=sharing).
 
+
 ### General Information
 The student challenge will be in held in two different labs at University of Birmingham Dubai. 
 Please make sure to reach at 08:00 sharp at the reception in order to partipate in the student challenge. The list of tasks and instructions for participation are provided [here](/hackathon).
 
+
 ### Panel discussion: 3 PM - 4:30 PM <br>
 More information on the panel session is available [here](https://www.birmingham.ac.uk/dubai/events/2023/the-future-of-ai-in-education.aspx)
 
-In case of any queries about the event, please feel free to contact Dr Ruchit Agrawal at r.r.agrawal@bham.ac.uk  
+In case of any queries about the event, please feel free to contact Dr Ruchit Agrawal at r.r.agrawal@bham.ac.uk.  
