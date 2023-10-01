@@ -13,5 +13,5 @@ To learn more about the event, please click [here](/dubAI-student-challenge/abou
 The venue of the event is [University of Birmingham Dubai](https://g.co/kgs/Cua4qb).
 
 ## Important instructions for participants
-#### Please find detailed information about the student challenge [here](/dubAI-student-challenge/hackathon).
+Please find detailed information about the student challenge [here](/dubAI-student-challenge/hackathon).
 #### Please make sure to reach at 08:00 sharp at the reception in order to partipate in the student challenge. 
