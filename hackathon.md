@@ -8,9 +8,6 @@ description: October 5, 2023 at UoBD | 8 AM - 5:30 PM
 The student competition begins at 08:45 and ends at 14:00. 
 The students will present their projects to a team of esteemed judges, and the winning teams will be awarded prizes. 
 
-#### Before the event
-Please go through these video lectures to get prepared for the event. The videos are available [here](https://drive.google.com/file/d/1mmqWM-k10Myc_9Shwev-m_bOaxioDf_q/view?usp=sharing).
-
 #### List of tasks
 The list of tasks can be found [here](https://docs.google.com/document/d/1OOx-8cZeHb2jsWbxSFEUw2_qXxAza9NIh8s8uMyy-iM/edit).
 
