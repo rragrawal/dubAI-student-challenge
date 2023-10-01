@@ -7,7 +7,7 @@ subtitle: University of Birmingham Dubai
 ---
 
 ---
-Join us for "DubAI Student Challenge" on Thursday 5th October​.
+Join us for the [DubAI Student Challenge](https://www.birmingham.ac.uk/dubai/events/2023/dubai-student-challenge.aspx) on Thursday 5th October.
 
 The University of Birmingham Dubai is hosting a day-long hackathon for school and university students to provide a platform for bright students to showcase their talent and delve into the world of AI in Dubai. 
 
