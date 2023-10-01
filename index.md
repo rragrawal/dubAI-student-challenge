@@ -1,6 +1,6 @@
 ---
 layout: page
-show-avatar: false
+show-avatar: true
 title: DubAI student challenge, UoBD
 subtitle: University of Birmingham Dubai
 ---
