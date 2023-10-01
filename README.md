@@ -9,10 +9,6 @@ Created with the help of:
 Original code of Clean Blog Jekyll copyrighted by 2013-2019 Blackrock Digital LLC. Code used under the MIT license.
 Content and code of MIP-Frontiers website that is not directly derived from Clean Blog Jekyll is also licensed under MIT license.
 
-## Tentative planning
-
-The workshop is tentatively planned to be held on the 13th of March, 2023. 
-
 ![University of Birmingham Dubai](img/logos/uobd.png)
 
 ## Development
