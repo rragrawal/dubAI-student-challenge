@@ -8,6 +8,9 @@ description: October 5, 2023 at UoBD | 8 AM - 5:30 PM
 The student challenge will be in held in two different labs at University of Birmingham Dubai. 
 Please make sure to reach at 08:00 sharp at the reception in order to partipate in the student challenge. 
 
+### Before the event
+Please go through these video lectures to get prepared for the event. The videos are available [here](https://drive.google.com/file/d/1mmqWM-k10Myc_9Shwev-m_bOaxioDf_q/view?usp=sharing).
+
 ### Detailed programme 
 08:00 Arrival and Welcome
 
@@ -25,6 +28,6 @@ Please make sure to reach at 08:00 sharp at the reception in order to partipate 
 
 16:45 - 17:30 Networking and refreshments 
 
-#### Panel discussion: 3 PM - 4:30 PM <br>
+### Panel discussion: 3 PM - 4:30 PM <br>
 More information on the panel session is available [here](https://www.birmingham.ac.uk/dubai/events/2023/the-future-of-ai-in-education.aspx)
 
