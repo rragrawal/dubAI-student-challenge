@@ -1,7 +1,7 @@
 ---
 layout: page
 show-avatar: false
-title: DubAI student challenge: Detailed information
+title: DubAI student challenge, UoBD
 subtitle: University of Birmingham Dubai
 ---
 
