@@ -13,9 +13,9 @@ To learn more about the event, please click [here](/dubAI-student-challenge/abou
 The venue of the event is [University of Birmingham Dubai](https://g.co/kgs/Cua4qb).
 
 ## Important instructions for participants
+The event will be held at the UoBD campus, and students are expected to bring their laptops with them. 
 
 ### Before the event
-
 Please go through these video lectures to get prepared for the event. The videos are available [here](https://drive.google.com/file/d/1mmqWM-k10Myc_9Shwev-m_bOaxioDf_q/view?usp=sharing).
 
 ### Challenges and submission
