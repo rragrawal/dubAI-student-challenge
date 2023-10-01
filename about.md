@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the DubAI student challenge
+title: About
 description: Get your hands dirty with AI!
 ---
 
