@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: Get your hands dirty with AI!
+description: Engage in hands-on AI exploration!
 ---
 
 The University of Birmingham Dubai is hosting a day-long hackathon for school and university students to provide a platform for bright students to showcase their talent and delve into the world of AI in Dubai. 
