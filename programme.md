@@ -12,22 +12,25 @@ Please make sure to reach at 08:00 sharp at the reception in order to partipate 
 Please go through these video lectures to get prepared for the event. The videos are available [here](https://drive.google.com/file/d/1mmqWM-k10Myc_9Shwev-m_bOaxioDf_q/view?usp=sharing).
 
 ### Detailed programme 
-08:00 Arrival and Welcome
+08:00 - 08:30 Arrival, welcome and group formation
 
-08:45 - 12:15 Student competition part 1
+08.30 - 08.45 Event overview presentation
+
+08:45 - 12:15 Challenge work part 1
 
 12:15 - 13:00 Lunch and prayer break
 
-13:00 - 14:00 Student competition part 2
+13:00 - 14:00 Challenge work part 2
 
-14:30 - 15:00 Break 
+14:00 - 14:45 Student project evaluation by judges
 
-15:00 - 16:30 Join the Future of AI Panel Discussion in the Auditorium
+14:45 - 15:00 Break for students, move to auditorium
+ 
+15:00 - 16:30 Join the Future of Generative AI panel session (Auditorium)
 
 16:30 - 16:45 DubAI Student Challenge winners announced
 
 16:45 - 17:30 Networking and refreshments 
 
-### Panel discussion: 3 PM - 4:30 PM <br>
-More information on the panel session is available [here](https://www.birmingham.ac.uk/dubai/events/2023/the-future-of-ai-in-education.aspx)
+17:30         Event closes
 
