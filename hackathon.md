@@ -15,7 +15,7 @@ The list of tasks can be found [here](https://media.tenor.com/_Y3doxogbV4AAAAC/g
 You may find a worked example [here](https://docs.google.com/document/d/1aoh8xjQeWKVJQPCRLPUU6sqs1fOy1eXfCsklhLM1oZE/edit?usp=sharing) as a reference
 
 #### Submission instructions
-You will have to submit your Google colab notebook. Instructions to do so are provided [here](https://docs.google.com/document/d/1aoh8xjQeWKVJQPCRLPUU6sqs1fOy1eXfCsklhLM1oZE/edit?usp=sharing).
+Submission instructions are provided [here](/submission.md).
 
 #### Presentation template
 Please prepare a presentation according to the template provided [here](https://docs.google.com/presentation/d/11tE3jLWOdaEPhMsoWNvAEnFpINp9zjm2ZWelGsYOyDw/edit?usp=sharing). 
