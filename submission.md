@@ -6,7 +6,7 @@ description: October 5, 2023 at UoBD
 
 ### Submission instructions
 
-You will have to submit your Google colab notebook. 
+Once you're done, you will have to submit your Google colab notebook. 
 
 Share your notebook with DubAISC2023@gmail.com using the guidance provided [here](https://research.google.com/colaboratory/faq.html).
 
