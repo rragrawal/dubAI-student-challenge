@@ -12,10 +12,10 @@ The students will present their projects to a team of esteemed judges, and the w
 The list of tasks can be found [here](https://media.tenor.com/_Y3doxogbV4AAAAC/gotcha-funny.gif).
 
 #### Worked example
-You may find a worked example [here](https://docs.google.com/document/d/1aoh8xjQeWKVJQPCRLPUU6sqs1fOy1eXfCsklhLM1oZE/edit?usp=sharing) as a reference
+We have provided a few worked examples for you to use as references. You may find these worked examples [here](/workedExamples)
 
 #### Submission instructions
-Submission instructions are provided [here](/submission.md).
+Submission instructions are provided [here](/submission).
 
 #### Presentation template
 Please prepare a presentation according to the template provided [here](https://docs.google.com/presentation/d/11tE3jLWOdaEPhMsoWNvAEnFpINp9zjm2ZWelGsYOyDw/edit?usp=sharing). 
