@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Student challenge details: Tasks and submission
+title: Student challenge details - Tasks and submission
 description: October 5, 2023 at UoBD | 8 AM - 5:30 PM
 ---
 
