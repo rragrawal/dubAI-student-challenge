@@ -6,9 +6,9 @@ description: October 5, 2023 at UoBD
 
 ### Submission instructions
 
-Once you're done, you will have to submit your Google Colab Jupyter notebook. 
+Once you're done, you will have to submit your Google Colab Jupyter notebook. Colab notebooks are stored in Google Drive. Colab notebooks can be shared just as you would with Google Docs or Sheets. Simply click the Share button at the top right of any Colab notebook to share it.
 
-Share your notebook with DubAISC2023@gmail.com using the guidance provided [here](https://research.google.com/colaboratory/faq.html).
+Please share your notebook with DubAISC2023@gmail.com for assessment. You may consult the guidance provided [here](https://research.google.com/colaboratory/faq.html).
 
 
 #### Presentation template
