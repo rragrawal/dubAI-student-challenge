@@ -14,7 +14,7 @@ description: DubAI student challenge, UoBD, 5 October 2023
 
 You’ll need to download this data, unzip it, place it in your Google Drive using the same account that you’re using for Google Colab, and provide the correct path to Google Colab to enable it to read this data from your Google Drive.
 
-#### Example 2
+#### Example 2:
 
 Text classification Google Colab Jupyter Notebook for classifying text.
 
