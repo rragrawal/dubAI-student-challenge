@@ -9,7 +9,7 @@ The student competition begins at 08:45 and ends at 14:00.
 The students will present their projects to a team of esteemed judges, and the winning teams will be awarded prizes. 
 
 #### List of tasks
-The list of tasks can be found [here](https://media.tenor.com/_Y3doxogbV4AAAAC/gotcha-funny.gif).
+The list of tasks can be found [here](https://docs.google.com/document/d/1OOx-8cZeHb2jsWbxSFEUw2_qXxAza9NIh8s8uMyy-iM/edit#heading=h.6aklifzajfq).
 
 #### Worked example
 We have provided a few worked examples for you to use as references. You may find these worked examples [here](/dubAI-student-challenge/workedExamples).
