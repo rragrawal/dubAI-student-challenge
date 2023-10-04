@@ -16,7 +16,8 @@ You’ll need to download this data, unzip it, place it in your Google Drive usi
 
 #### Example 2
 
-Text classification Google Colab Jupyter Notebook for classifying text
+Text classification Google Colab Jupyter Notebook for classifying text.
+
 [Using SVM](https://colab.research.google.com/drive/1f9HqN04Jq1boKk5ortrvfjXUTo4-xSxI#scrollTo=zaseZh1e0c0X)
 
 [Using BERT](https://colab.research.google.com/drive/1Ms5HKyIyrYXwzWVq1tQ_MgZXeNJmCnKm#scrollTo=RfWjk1FBswd3)
