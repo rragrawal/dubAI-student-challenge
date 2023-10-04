@@ -12,7 +12,7 @@ The students will present their projects to a team of esteemed judges, and the w
 The list of challenges can be found [here](https://docs.google.com/document/d/1OOx-8cZeHb2jsWbxSFEUw2_qXxAza9NIh8s8uMyy-iM/edit#heading=h.6aklifzajfq).
 The challenges correspond to two levels of difficulty, and the marking scheme will incorporate this appropriately as mentioned in the above document. You may attempt a maximum of 4 challenges.
 
-#### Worked example
+#### Worked examples
 We have provided a few worked examples for you to use as references. You may find these worked examples [here](/dubAI-student-challenge/workedExamples).
 
 #### Submission instructions
