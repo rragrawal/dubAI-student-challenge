@@ -23,5 +23,5 @@ Please prepare a presentation according to the template provided [here](https://
 ### After the event
 
 #### Panel discussion: 3 PM - 4:30 PM <br>
-More information on the panel session is available [here](https://www.birmingham.ac.uk/dubai/events/2023/the-future-of-ai-in-education.aspx)
+More information on the panel session is available [here](https://www.birmingham.ac.uk/dubai/events/2023/the-future-of-ai-in-education.aspx).
 
