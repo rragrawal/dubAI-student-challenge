@@ -9,7 +9,7 @@ description: October 5, 2023 at UoBD | 8 AM - 5:30 PM
 You will have to submit your Google colab notebook. 
 
 Share your Google with DubAISC2023@gmail.com using the guidance provided [here]
-(https://research.google.com/colaboratory/faq.html#:~:text=Simply%20click%20the%20Share%20button,Google%20Drive%20file%20sharing%20instructions.&text=If%20you%20choose%20to%20share,and%20comments)%20will%20be%20shared.)
+(https://research.google.com/colaboratory/faq.html).
 
 
 #### Presentation template
