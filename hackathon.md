@@ -12,10 +12,10 @@ The students will present their projects to a team of esteemed judges, and the w
 The list of tasks can be found [here](https://media.tenor.com/_Y3doxogbV4AAAAC/gotcha-funny.gif).
 
 #### Worked example
-We have provided a few worked examples for you to use as references. You may find these worked examples [here](/workedExamples)
+We have provided a few worked examples for you to use as references. You may find these worked examples [here](/dubAI-student-challenge/workedExamples)
 
 #### Submission instructions
-Submission instructions are provided [here](/submission).
+Submission instructions are provided [here](/dubAI-student-challenge/submission).
 
 #### Presentation template
 Please prepare a presentation according to the template provided [here](https://docs.google.com/presentation/d/11tE3jLWOdaEPhMsoWNvAEnFpINp9zjm2ZWelGsYOyDw/edit?usp=sharing). 
